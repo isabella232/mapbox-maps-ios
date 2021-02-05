@@ -4,7 +4,7 @@ import UIKit
 public struct ColorRepresentable: Codable, Equatable {
 
     /// String representation of a `UIColor` used by the renderer
-    public let colorRepresentation: String?
+    public let  colorRepresentation: String?
 
     /// Create a string representation of a `UIColor`
     /// - Parameter color: A `UIColor` instance in the sRGB color space
