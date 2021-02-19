@@ -9,3 +9,5 @@ developer.xcconfig
 Carthage
 api-docs
 Tests/MapboxMapsTests/Helpers/MapboxAccessToken
+scripts/release/packager/artifacts
+scripts/release/packager/build
